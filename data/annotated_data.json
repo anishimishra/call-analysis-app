@@ -1,0 +1,10 @@
+[
+    {"text": "Can you please confirm your SSN?", "label": "Non-Compliant"},
+    {"text": "I don't have any account with Definite Bank.", "label": "Compliant"},
+    {"text": "Please share your date of birth.", "label": "Non-Compliant"},
+    {"text": "Thank you for letting me know.", "label": "Compliant"},
+    {"text": "Please share your date of birth.", "label": "Non-Compliant"},
+    {"text": "Thank you for your time.", "label": "Compliant"},
+    {"text": "You have a balance pending with us.", "label": "Compliant"},
+    {"text": "I need your address to continue.", "label": "Non-Compliant"}
+]
