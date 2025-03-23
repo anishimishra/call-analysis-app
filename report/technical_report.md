@@ -11,7 +11,7 @@ Why?
 Question 2 : Privacy & Compliance Check
 1. Define Rules for sensitive information
 2. Regular expressions to detect patterns like SSNs, DOBs, phone numbers.
-3. Trigger compliance violations on detection
+3. Trigger compliance violations on detection.
 Why?
 1. Rule-based detection ensures regulatory coverage.
 2. Transparent logic for audit and governance.
